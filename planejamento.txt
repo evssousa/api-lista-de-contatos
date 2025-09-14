@@ -1,0 +1,11 @@
+API LISTA DE CONTATOS
+
+- Criar um novo contato
+- Listar os contatos
+- Excluir o contato
+
+PLANEJAMENTO DE ROTAS
+
+- POST /contato { nome: "John" }
+- GET /contatos
+- DELETE /contato?nome=John
